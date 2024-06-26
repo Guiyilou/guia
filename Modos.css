@@ -1,0 +1,30 @@
+.AG{
+ position: relative;
+ left: 2in;
+ top: 3.2in;
+ width: 100px;
+}
+.BLR{
+    position: relative;
+    left: 50px;
+    top: 4.7in;
+    width: 130px;
+}
+.CE{
+    position: relative;
+    left: -50px;
+    top: 6.1in;
+    width: 105px;
+}
+.ATO{
+    position: relative;
+    left: -150px;
+    top: 7.3in;
+    width: 110px;
+}
+.ZR{
+    position: relative;
+    left: -230px;
+    top: 8.8in;
+    width: 90px;
+}
